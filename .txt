@@ -1,0 +1,17 @@
+commands:- 
+python -m venv myenv  -> 
+myenv\scripts\activate  -> to activate 
+
+to install django-> 2 ways -> 
+(i) pip install django -> downaloads the library
+(ii) go to extensions and install django
+
+to check installation  -> django-admin --version 
+
+commands for creating the project -> django-admin startproject project_name(myproject1)
+
+// check python version in cmd:- python --version
+
+
+
+## Browser -> Request -> Server -> Response
